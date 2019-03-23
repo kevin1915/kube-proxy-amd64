@@ -1,3 +1,3 @@
-FROM 192.168.2.78:5000/library/alpine:3.5
+FROM  k8s.gcr.io/kube-proxy-amd64:v1.11.3
 
 MAINTAINER Kevin Kevin@ly-sky.com
